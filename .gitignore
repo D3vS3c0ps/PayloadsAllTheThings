@@ -2,3 +2,6 @@ BuildPDF/
 .vscode
 .todo
 AWS Amazon Lambda/
+# macOS system files
+.DS_Store
+._*
